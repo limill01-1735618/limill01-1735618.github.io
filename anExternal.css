@@ -1,0 +1,14 @@
+#aussie {
+	float: right;
+	border-radius: 25px;
+}
+#samoyed{
+	float:left;
+	position:relative;
+}
+
+h3{
+	position:absolute;
+	left:100px;
+	bottom:-80px;
+}
